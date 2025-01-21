@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cddfca2f-54cf-4c07-b358-6808eab9cbfb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaturalmentoMensal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FibonacciChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InverterString.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2rx0qS5eSOkYrlKnEg68NBkBLfR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FaturalmentoMensal.executor": "Run",
+    "Application.FaturamentoDiario.executor": "Run",
+    "Application.FaturamentoMensal.executor": "Run",
+    "Application.FibonacciChecker.executor": "Run",
+    "Application.InverterString.executor": "Run",
+    "Application.SomaIndice.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Pedro Henrique/Desktop/desafioTecnico/FaturamentoDistribuidora"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.SomaIndice">
+    <configuration name="FaturalmentoMensal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FaturalmentoMensal" />
+      <module name="desafioTecnicoTarget" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FaturamentoMensal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FaturamentoMensal" />
+      <module name="desafioTecnicoTarget" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibonacciChecker" />
+      <module name="desafioTecnicoTarget" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InverterString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InverterString" />
+      <module name="desafioTecnicoTarget" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SomaIndice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SomaIndice" />
+      <module name="desafioTecnicoTarget" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SomaIndice" />
+        <item itemvalue="Application.InverterString" />
+        <item itemvalue="Application.FaturalmentoMensal" />
+        <item itemvalue="Application.FaturamentoMensal" />
+        <item itemvalue="Application.FibonacciChecker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cddfca2f-54cf-4c07-b358-6808eab9cbfb" name="Changes" comment="" />
+      <created>1737485610883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737485610883</updated>
+    </task>
+    <servers />
+  </component>
+</project>
